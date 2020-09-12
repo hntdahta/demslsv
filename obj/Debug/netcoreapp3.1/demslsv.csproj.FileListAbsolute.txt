@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\demslsv\bin\Debug\netcoreapp3.1\demslsv.exe
+C:\Users\Administrator\source\repos\demslsv\bin\Debug\netcoreapp3.1\demslsv.deps.json
+C:\Users\Administrator\source\repos\demslsv\bin\Debug\netcoreapp3.1\demslsv.runtimeconfig.json
+C:\Users\Administrator\source\repos\demslsv\bin\Debug\netcoreapp3.1\demslsv.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\demslsv\bin\Debug\netcoreapp3.1\demslsv.dll
+C:\Users\Administrator\source\repos\demslsv\bin\Debug\netcoreapp3.1\demslsv.pdb
+C:\Users\Administrator\source\repos\demslsv\obj\Debug\netcoreapp3.1\demslsv.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\demslsv\obj\Debug\netcoreapp3.1\demslsv.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\demslsv\obj\Debug\netcoreapp3.1\demslsv.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\demslsv\obj\Debug\netcoreapp3.1\demslsv.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\demslsv\obj\Debug\netcoreapp3.1\demslsv.dll
+C:\Users\Administrator\source\repos\demslsv\obj\Debug\netcoreapp3.1\demslsv.pdb
+C:\Users\Administrator\source\repos\demslsv\obj\Debug\netcoreapp3.1\demslsv.genruntimeconfig.cache
